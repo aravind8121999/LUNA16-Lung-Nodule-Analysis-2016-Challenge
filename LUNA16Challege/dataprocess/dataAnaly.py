@@ -62,5 +62,5 @@ def getitkImageSpacing():
             print(srcSpace)
 
 
-#getTrunctedThresholdValue()
-# getitkImageSpacing()
+getTrunctedThresholdValue()
+getitkImageSpacing()
